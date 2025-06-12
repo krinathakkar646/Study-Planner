@@ -14,6 +14,5 @@ A beautifully designed daily task planner and Pomodoro timer built with Python u
 - customtkinter
 
 ## ▶ How to Run
-```bash
-pip install -r requirements.txt
+
 python main.py
